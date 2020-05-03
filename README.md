@@ -1,2 +1,3 @@
-# custom-casting-bar
-A custom casting bar add on for World of Warcraft
+# Custom Casting Bar
+Add on for World of Warcraft.
+Modifies the default casting bar and adds a text with the remaining casting time. It's also draggable and shows the icon of the spell (configurable)
