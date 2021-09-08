@@ -1,4 +1,4 @@
-## Interface: 80300
+## Interface: 90100
 
 ## Title: CustomCastingBar
 ## Notes: A custom casting bar: Shows time left, it's draggable and configurable.
@@ -7,4 +7,4 @@
 ## DefaultState: enabled
 CustomCastingBar.lua
 
-#http://jrsanjuan.com/
+#https://jrsanjuan.github.io/
